@@ -1,2 +1,4 @@
 -Pipeline en gardant le cache : 1mn13
 -Pipeline sans le cache : 1mn02
+-quand on remet la première fois : 1mn14
+-la deuxième fois : 
