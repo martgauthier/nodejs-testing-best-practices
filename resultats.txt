@@ -2,3 +2,8 @@
 -Pipeline sans le cache : 1mn02
 -quand on remet la première fois : 1mn14
 -la deuxième fois : 1mn11
+
+
+
+Le temps est beaucoup plus long avec 3 jobs de tests séparés (2mn07). C'est probablement du au fait qu'on doit réinitialiser
+tout l'env pour chaque job.
