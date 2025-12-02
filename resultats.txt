@@ -10,3 +10,6 @@ tout l'env pour chaque job.
 
 
 En désactivant un job, le temps est à peine plus court, car les jobs sont encore parallèle et que cela ne ralentit pas les autres.
+
+
+fxdghjkl
