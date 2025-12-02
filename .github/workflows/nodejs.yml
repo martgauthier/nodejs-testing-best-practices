@@ -5,8 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches:
-      - '*'
+    branches: [master]
   pull_request:
     branches: [master]
 
@@ -28,10 +27,6 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-
-      - run: npm ci
-      - run: npm test
-      - run: npm run test:nestjs
 
   test-ci:
     runs-on: ubuntu-latest
