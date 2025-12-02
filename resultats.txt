@@ -9,7 +9,7 @@ Le temps est beaucoup plus long avec 3 jobs de tests séparés (2mn07). C'est pr
 tout l'env pour chaque job.
 
 
-En désactivant un job, le temps est à peine plus court, car les jobs sont encore parallèle et que cela ne ralentit pas les autres.
+En désactivant un job,fsdfsdfs le temps est à peine plus court, car les jobs sont encore parallèle et que cela ne ralentit pas les autres.
 
 
 fxdghjkl
